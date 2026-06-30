@@ -3,6 +3,7 @@ Overview
 
 Tetria Game is a classic block puzzle game inspired by Tetris. The objective is to arrange falling blocks to complete horizontal lines. Completed lines are cleared, and the player earns points. The game continues until there is no space to spawn a new piece.
 
+
 Features
 Classic Tetris-style gameplay
 Random tetromino generation
